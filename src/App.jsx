@@ -1,3 +1,5 @@
+import { resources } from "./assets/ressurser";
+import { DOMContentLoaded } from "./assets/ressursbytte";
 import "./styles/style.css";
 
 function App() {
