@@ -16,8 +16,8 @@ function App() {
             </ul>
         </nav>
     </header>
-    <main class="content-wrapper">
-        <section class="content"></section>
+    <main className="content-wrapper">
+        <section className="content"></section>
     </main>
 
     </>
