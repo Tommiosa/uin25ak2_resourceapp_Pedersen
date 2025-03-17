@@ -1,3 +1,5 @@
+export function DOMContentLoaded(){
+
 document.addEventListener("DOMContentLoaded", () => {
     const navItems = document.querySelectorAll("nav ul li");
     const contentSection = document.querySelector(".content");
@@ -34,3 +36,4 @@ document.addEventListener("DOMContentLoaded", () => {
         updateContent("HTML");
     }
 });
+}
